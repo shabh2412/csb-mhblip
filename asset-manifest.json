@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://shabh2412.github.io/csb-mhblip/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://shabh2412.github.io/csb-mhblip/static/js/main.55e4c9a4.chunk.js",
+    "main.js.map": "https://shabh2412.github.io/csb-mhblip/static/js/main.55e4c9a4.chunk.js.map",
+    "runtime-main.js": "https://shabh2412.github.io/csb-mhblip/static/js/runtime-main.94ff4563.js",
+    "runtime-main.js.map": "https://shabh2412.github.io/csb-mhblip/static/js/runtime-main.94ff4563.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://shabh2412.github.io/csb-mhblip/static/css/2.cbedb215.chunk.css",
+    "static/js/2.bd201d8a.chunk.js": "https://shabh2412.github.io/csb-mhblip/static/js/2.bd201d8a.chunk.js",
+    "static/js/2.bd201d8a.chunk.js.map": "https://shabh2412.github.io/csb-mhblip/static/js/2.bd201d8a.chunk.js.map",
+    "index.html": "https://shabh2412.github.io/csb-mhblip/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://shabh2412.github.io/csb-mhblip/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://shabh2412.github.io/csb-mhblip/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.bd201d8a.chunk.js.LICENSE.txt": "https://shabh2412.github.io/csb-mhblip/static/js/2.bd201d8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94ff4563.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.bd201d8a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.55e4c9a4.chunk.js"
+  ]
+}
